@@ -1,0 +1,4 @@
+include:
+  - project: 'gitlab/pipelines'
+    ref: main
+    file: '.gitlab-ci-docker.yml'
